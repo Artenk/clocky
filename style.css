@@ -36,12 +36,17 @@
     align-items: center;
     font-size:100px;
     background: transparent;
-    color: red;
+    text-shadow: 0 0 3px black, 0 0 4px white;
+    color: white;
+
   }
   
   .colun {
     font-size: 80px;
     font-size: bold;
+    text-shadow: 0 0 3px black, 0 0 4px white;
+    color: white;
+
   }
   @media (max-width: 850px) {
     .clock-container {
